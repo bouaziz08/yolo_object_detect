@@ -1,0 +1,8 @@
+path: ../datasets/coco8  # dataset root dir
+train: images/train  # train images (relative to 'path') 4 images
+val: images/train  # val images (relative to 'path') 4 images
+
+# Classes
+names:
+  0: laptop
+
