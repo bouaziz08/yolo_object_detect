@@ -1,5 +1,4 @@
 # **Object Detection App**  
-![App Screenshot](./assets/app-screenshot.png)
 
 This project is an interactive object detection application using OpenCV, YOLOv8, Tkinter, and Pillow. The app allows users to load images or video streams, detect objects, and visualize the results in real-time.
 
@@ -28,7 +27,7 @@ This project is an interactive object detection application using OpenCV, YOLOv8
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/yourusername/yolo_object_detect.git
     ```
 2. Install required dependencies:
     ```bash
@@ -72,4 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## **Contact**
 
-For any questions or inquiries, please reach out via GitHub or email at [your.email@example.com](mailto:your.email@example.com).
+For any questions or inquiries, please reach out via GitHub or email at [bouaziz.design08@gmail.com](mailto:your.email@example.com).
