@@ -1,6 +1,6 @@
 # **Object Detection App**  
 
-This project is an interactive object detection application using OpenCV, YOLOv8, Tkinter, and Pillow. The app allows users to load images or video streams, detect objects, and visualize the results in real-time.
+This project is an interactive object detection application using OpenCV, YOLOv8, Tkinter, and Pillow. The app allows users to load images, detect objects, and visualize the results in real-time.
 
 ## **Features**
 - **Real-Time Object Detection**: Utilizes YOLOv8 for high-accuracy object detection.
@@ -10,10 +10,6 @@ This project is an interactive object detection application using OpenCV, YOLOv8
 
 ---
 
-## **Demo**
-![Detection Demo](./assets/detection-demo.gif)
-
----
 
 ## **Technologies Used**
 - **OpenCV**: For image and video processing.
@@ -33,18 +29,13 @@ This project is an interactive object detection application using OpenCV, YOLOv8
     ```bash
     pip install -r requirements.txt
     ```
-3. Download the YOLOv8 model weights and place them in the `models/` directory.
+3. Download the YOLOv8 model weights and place them in the `runs/detect` directory.
 
 ---
 
 ## **Usage**
-
-1. **Start the app**:
-    ```bash
-    python app.py
-    ```
-2. **Load an image or video** using the interface.
-3. **Run detection** and view results directly in the app window.
+1. **using the interface and take picture of object.**
+2. **Run detection and view results directly in the app window by open button.**
 
 ---
 
