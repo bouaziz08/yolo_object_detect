@@ -27,7 +27,7 @@ This project is an interactive object detection application using OpenCV, YOLOv8
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yolo_object_detect.git
+    git clone https://github.com/bouaziz08/yolo_object_detect.git
     ```
 2. Install required dependencies:
     ```bash
@@ -58,11 +58,6 @@ This project is an interactive object detection application using OpenCV, YOLOv8
 
 ---
 
-## **Contributing**
-
-Feel free to submit a pull request if you want to contribute to the project! We welcome improvements and additional features.
-
----
 
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
